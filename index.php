@@ -14,6 +14,7 @@ and open the template in the editor.
             echo 'primera linea del proyecto';
             echo 'prueba segundo commit ';
             echo 'Cambio significativo';
+            $rama="rama1/2"
         ?>
     </body>
 </html>
